@@ -9,6 +9,7 @@
         float pib1;
         int pontos1;
 
+        
 
         char nome_estado2[50];
         char cod_carta2[30];
@@ -99,6 +100,7 @@
         int ganhador_pib_per_capita;
         int ganhador_super_poder;
         int ganhador_densidade_invertida;*/
+        
 
         if (populacao1>populacao2)
         {
